@@ -8,4 +8,6 @@ Creating a new branch 'feature1'.
 test:rebase,this is created by the master.
 test rebase: this is created by breach feature1.
 
+test rebase: this is early commit.
+
 

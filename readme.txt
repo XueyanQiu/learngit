@@ -12,3 +12,6 @@ test rebase: this is late commit.
 test rebase: this is early commit.
 
 test rebase: late commit and push.
+test rebase: early commit and push.
+
+
